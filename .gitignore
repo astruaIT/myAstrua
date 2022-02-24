@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+# User-generated content (eg profile pictures, post images)
+pfp/
+postimg/
